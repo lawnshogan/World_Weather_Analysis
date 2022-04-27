@@ -1,1 +1,0 @@
-g_key="AIzaSyBd8DpHB_E-5eoy0kwKqHAno4zqdzuiF8I"
